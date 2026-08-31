@@ -4,7 +4,7 @@
   "description": "ajbkr.com — take four (public build artefact)",
   "private": true,
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --dotfiles"
   },
   "author": "Andrew J. Baker <andrew_j_baker2@hotmail.com>",
   "devDependencies": {
