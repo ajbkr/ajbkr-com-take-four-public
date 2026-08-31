@@ -1,0 +1,10 @@
+/* TEAM */
+Full-stack developer: Andrew J. Baker
+From: Mansfield, Nottinghamshire, UK
+
+/* SITE */
+Language: English
+Doctype: HTML5
+IDE: Vi IMproved (vim)
+Back-end: None — static Nuxt/Vue site
+Front-end: Nuxt/Vue/Bulma/Sass
